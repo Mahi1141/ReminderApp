@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392898002816",
+    "project_id": "reminder-app-fdd76",
+    "storage_bucket": "reminder-app-fdd76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392898002816:android:a7517ee8f4ba2324cd0b65",
+        "android_client_info": {
+          "package_name": "com.mahesh.reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8r6ouYBh3nwuRTkQIW8h1Qk9JjQ3OzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
