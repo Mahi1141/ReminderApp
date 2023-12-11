@@ -1,4 +1,4 @@
-//main
+//main activity
 package com.mahesh.reminder
 
 import android.os.Bundle
